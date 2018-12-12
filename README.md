@@ -17,7 +17,7 @@ The algorithm above calculates the median of an array. Steps to finding the medi
 - The median function has been implemented easily
 
 ### Technical realisation in ACSL
-1. Median axioms:
+Median axioms:
 For the Axiomatic definition of median I assume that the three axioms must be achieved:
 
 - Axiom 1: For a sorted array the median is the middle number
